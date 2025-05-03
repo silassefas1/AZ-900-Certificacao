@@ -1,2 +1,1 @@
-# AZ-900-resumo-do-lab
-Resumo do primeriro laboratorio sobre Microsoft Azure
+No laboratório, foi apresentada uma introdução ao ambiente do Azure, abordando a configuração do idioma e da aparência da plataforma. Também foram explorados os recursos disponíveis, incluindo funcionalidades em fase de testes que podem ou não ser implementadas futuramente. Além disso, foram demonstrados recursos utilizados para realizar operações abordadas nas aulas teóricas até o momento, bem como outros que serão explorados nas próximas etapas do curso.
